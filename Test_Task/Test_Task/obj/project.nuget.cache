@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HTre2Fkp8xCC5wE+9r7re9/Iab8UZk5FOf6lMO/SuJExOda8pP9DUKg3wrd2Ev2pVDSXDF3PeRvyYVEszJePQA==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo\\Programação Visual\\Test_Task\\Test_Task\\Test_Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\diogo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

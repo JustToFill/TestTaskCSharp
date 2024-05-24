@@ -1,0 +1,1 @@
+Test_Task.exe --source "C:\path\to\sourceFolder" --destination "C:\path\to\destinationFolder" --log "C:\path\to\logfile.txt" --interval 60
